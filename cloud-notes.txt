@@ -1,0 +1,9 @@
+AWS Cloud Engineer Bootcamp
+
+Week 1 - Amazon S3 Lab
+
+S3 is AWS object storage.
+
+Buckets contain objects.
+
+Versioning helps protect against accidental overwrites and deletions.
