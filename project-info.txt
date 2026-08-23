@@ -1,0 +1,11 @@
+AWS Cloud Operations Project
+
+Week 1
+
+Services:
+EC2
+S3
+IAM
+CloudWatch
+
+This object is stored in Amazon S3.
