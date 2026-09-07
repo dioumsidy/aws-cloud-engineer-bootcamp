@@ -92,7 +92,57 @@ This repository documents my hands-on journey learning cloud engineering through
 
 \### Week 3 — SQL and Databases
 
-Coming next.
+
+
+\## Databases
+
+
+
+\- SQL
+
+\- MariaDB
+
+\- Relational databases
+
+\- Tables
+
+\- Rows and columns
+
+\- Primary keys
+
+\- Foreign keys
+
+\- SELECT
+
+\- INSERT
+
+\- UPDATE
+
+\- DELETE
+
+\- WHERE
+
+\- ORDER BY
+
+\- GROUP BY
+
+\- JOIN
+
+\- LEFT JOIN
+
+\- Aggregate functions
+
+\- Database users
+
+\- GRANT
+
+\- Least privilege
+
+\- Amazon RDS
+
+\- TLS-secured database connections
+
+
 
 
 
