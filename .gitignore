@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Python virtual environments
+.venv/
+venv/
+
+# Generated log files
+*.log
+
+# Environment files / secrets
+.env
+
+# Private keys
+*.pem
