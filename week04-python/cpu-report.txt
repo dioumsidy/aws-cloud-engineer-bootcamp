@@ -1,0 +1,5 @@
+web-server-01: NORMAL
+web-server-02: WARNING
+database-server: CRITICAL
+backup-server: NORMAL
+backup-server: NORMAL
