@@ -1,0 +1,10 @@
+import boto3
+
+s3 = boto3.client("s3")
+
+response = s3.list_buckets()
+
+print("=== S3 BUCKET INVENTORY ===")
+
+for bucket in response["Buckets"]:
+    print(f"Bucket Name: {bucket['Name']}")

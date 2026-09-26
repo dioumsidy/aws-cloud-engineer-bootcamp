@@ -1,16 +1,15 @@
 # Python
 __pycache__/
 *.pyc
-
-# Python virtual environments
 .venv/
 venv/
 
-# Generated log files
+# Generated files
 *.log
+aws-resource-report.txt
+boto3-test.txt
+downloaded-test.txt
 
-# Environment files / secrets
+# Secrets / credentials
 .env
-
-# Private keys
 *.pem
