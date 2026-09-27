@@ -13,3 +13,10 @@ downloaded-test.txt
 # Secrets / credentials
 .env
 *.pem
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
